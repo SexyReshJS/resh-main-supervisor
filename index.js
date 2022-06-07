@@ -1,0 +1,1 @@
+Altyapıyı paylaşılmasını beklemeden almak için discorddan ulaş
