@@ -30,4 +30,5 @@ Bota ait bazı görseller ;
 <img src = "https://cdn.discordapp.com/attachments/963024825851473930/983876064323440660/resh12.png">
 <img src = "https://cdn.discordapp.com/attachments/963024825851473930/983876064654811176/resh13.png">
 <img src = "https://cdn.discordapp.com/attachments/963024825851473930/983876064927416370/resh14.png">
+<img src = "https://cdn.discordapp.com/attachments/963024825851473930/983876963817103401/resh15.png">
 </center>
