@@ -1,5 +1,5 @@
 # Resh-moderation
-Altyapı 35 Star + 15 Fallowerda paylaşılıcaktır. 
+Altyapı 35 Star + 15 followerda paylaşılıcaktır. 
 <hr>
 Ufak tefek hatalar koydum discorddan ulaşabilirsiniz;
 
