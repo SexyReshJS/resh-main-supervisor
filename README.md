@@ -10,7 +10,7 @@ Ufak tefek hatalar koydum discorddan ulaşabilirsiniz;
 - `config.json` Dosyasını doldurun,
 - `NodeJS` Yükleyin ,
 - Klasörde shift+sağtık ile powershell açıp `npm i` Yazın 
-- `node .` yada `npm start` dosyasını doldurmanız yeterlidir. 
+- Botu çalıştırmak için`node .` yada `npm start` yazmanız yeterlidir. 
 - Hata olursa eğer ki büyük ihtimalle olmaz discorddan ulaşabilirsiniz.  
 
 Bota ait bazı görseller ; 
