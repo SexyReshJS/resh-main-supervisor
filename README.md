@@ -11,7 +11,7 @@ Ufak tefek hatalar koydum discorddan ulaşabilirsiniz;
 - `NodeJS` Yükleyin ,
 - Klasörde shift+sağtık ile powershell açıp `npm i` Yazın 
 - Botu çalıştırmak için`node .` yada `npm start` yazmanız yeterlidir. 
-- Hata olursa eğer ki büyük ihtimalle olmaz discorddan ulaşabilirsiniz.  
+- Hata olursa eğer ki büyük ihtimalle olmaz(olabilirde skdngsg) discorddan ulaşabilirsiniz.  
 
 Bota ait bazı görseller ; 
 
