@@ -13,7 +13,7 @@ Ufak tefek hatalar koydum discorddan ulaşabilirsiniz;
 - Botu çalıştırmak için`node .` yada `npm start` yazmanız yeterlidir. 
 - Hata olursa eğer ki büyük ihtimalle olmaz(olabilirde skdngsg) discorddan ulaşabilirsiniz.  
 
-Bota ait bazı görseller ; 
+Bota ait bazı görseller(eklemediğim fotolar var aklıma estik.e yeni foto/kod eklicem) ; 
 
 <center> 
 <img src = "https://cdn.discordapp.com/attachments/963024825851473930/983875468073775134/resh1.png">
