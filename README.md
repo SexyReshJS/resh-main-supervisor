@@ -1,5 +1,6 @@
 # Resh-moderation
-Altyapı 35 Star + 15 followerda paylaşılıcaktır. 
+Altyapı 35 Star + 15 followerda paylaşılıcaktır.
+Altyapının baylaşılmasını beklemden satın almak isterseniz discorddan ulaşabilirsiniz.
 <hr>
 Ufak tefek hatalar koydum discorddan ulaşabilirsiniz;
 
